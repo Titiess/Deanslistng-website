@@ -1,0 +1,48 @@
+.programs{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+.program{
+    color: #fff;
+    border-radius: 15px;
+    background: linear-gradient(-145.31deg, #23243c 10%, #221c35 47.92%, #350f52 80%);
+    display: block;
+    flex-basis: 31%;
+    height: 250px;
+    margin: 5px;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0 10px 10px rgb(7, 20, 26);  
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.program h2{
+    color: rgb(161, 180, 196);
+}
+.program p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.program p a {
+    color: rgb(87, 87, 212);
+}
+
+/* ----- Media query --------------- */
+
+@media (max-width:750px){
+    .programs{
+        flex-direction: column;
+    }
+    .program{
+        flex-basis: 100%;
+        margin: 20px;
+        width: 80%;
+        padding: 30px 30px;
+    }
+}

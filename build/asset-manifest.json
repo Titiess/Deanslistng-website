@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6d446c60.css",
+    "main.js": "./static/js/main.6c15b41f.js",
+    "static/js/453.9b22ac35.chunk.js": "./static/js/453.9b22ac35.chunk.js",
+    "static/media/hero.png": "./static/media/hero.6a950341473d3ad703e4.png",
+    "static/media/about-img.png": "./static/media/about-img.3fec153933ed9c570db6.png",
+    "static/media/twitter-icon.png": "./static/media/twitter-icon.5cd840b0962f85720620.png",
+    "static/media/solana-logo.png": "./static/media/solana-logo.3393227717a1aae5ae07.png",
+    "static/media/logo.png": "./static/media/logo.fa8571a996d1fbe2e5c9.png",
+    "static/media/hero1.png": "./static/media/hero1.0035b496ac5a8e8bda95.png",
+    "static/media/send-icon.png": "./static/media/send-icon.427c1cbe8757527ea338.png",
+    "static/media/github-icon.png": "./static/media/github-icon.c657027f4ff39abb341a.png",
+    "static/media/ng.png": "./static/media/ng.be738c3ddd5ca08ab4f6.png",
+    "static/media/location-icon.png": "./static/media/location-icon.8e488cfef2a0b62708d9.png",
+    "index.html": "./index.html",
+    "main.6d446c60.css.map": "./static/css/main.6d446c60.css.map",
+    "main.6c15b41f.js.map": "./static/js/main.6c15b41f.js.map",
+    "453.9b22ac35.chunk.js.map": "./static/js/453.9b22ac35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d446c60.css",
+    "static/js/main.6c15b41f.js"
+  ]
+}
